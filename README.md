@@ -8,3 +8,4 @@
 - Maps planning applications within SSSIs in leafmap.
 
 TODO: refine API filters, consider postGIS datasource, apply buffers (e.g. 1km) to POINTS of planning applications
+![map](https://user-images.githubusercontent.com/10165571/137352704-ee9eb57b-77ff-45ce-b636-5c894a9fdbac.png)
